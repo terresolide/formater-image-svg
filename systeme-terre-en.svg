@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="systeme_terre" version="1.2" width="800px" height="422px" viewBox="0 0 800 422" preserveAspectRatio="xMidYMid" fill-rule="evenodd"  stroke-width="28.222" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg" xmlns:ooo="http://xml.openoffice.org/svg/export" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
+<style type="text/css">
+  <![CDATA[
+  #systeme_terre a{
+    cursor:pointer;
+  }
+#systeme_terre a:hover rect{
+	stroke: rgb(140,2,9);
+	stroke-width:3px;
+
+   }
+#systeme_terre ellipse{
+ 
+}
+  ]]>
+ </style>
+<defs><filter id="f3" x="0" y="0" width="200%" height="150%"><feOffset result="offOut" in="SourceGraphic" dx="5" dy="5"/><feGaussianBlur result="blurOut" in="offOut" stdDeviation="3"/><feBlend in="SourceGraphic" in2="blurOut" mode="normal"/></filter>
+
+<filter id="f4" color-interpolation-filters="sRGB"><feOffset result="offOut" in="SourceAlpha" dx="5" dy="5"/>
+ <feColorMatrix in="offOut" result="matrixOut" type="matrix" values="1 0 0 0 0                                              0 1 0 0 0                                              0 0 1 0 0                                               0 0 0 1 0"/>
+<feGaussianBlur result="blurOut" in="matrixOut" stdDeviation="3"/><feBlend in="SourceGraphic" in2="blurOut" mode="normal"/></filter>
+<filter id="f5" color-interpolation-filters="sRGB"><feOffset result="offOut" in="SourceAlpha" dx="5" dy="5"/>
+ <feColorMatrix in="offOut" result="matrixOut" type="matrix" values="0 0 0 0.9 0                                              0 0 0 0.3 0                                              0 0 0 0.3 0                                               0 0 0 1 0"/>
+<feGaussianBlur result="blurOut" in="matrixOut" stdDeviation="3"/><feBlend in="SourceGraphic" in2="blurOut" mode="normal"/></filter>
+</defs>
+<g>
+
+<ellipse cx="410" cy="214" rx="260" ry="150" fill="transparent" fill-opacity="0.1" stroke="black" stroke-width="2" stroke-opacity="0.2" filter="url(#f4)"/>
+
+<g id="aeris" transform="translate(318,42)">
+	<a xlink:href="https://en.aeris-data.fr/" xlink:title="Aeris - Data and Services for the Atmosphere" target="_blank">
+		<rect x="0" y="0" height="92" width="175" filter="url(#f3)"/>
+		<image xlink:href="https://rawgit.com/terresolide/systeme-terre-svg/master/logos/aeris.png" x="0" y="0" height="92" width="175" />
+	</a>
+</g>
+<g id="formater" transform="translate(549,179)">
+	<a xlink:href="https://en.poleterresolide.fr/" xlink:title="ForM@Ter - Data and Services for the Solid Earth" target="_blank">
+		<rect  x="0" y="0" height="86" width="210" filter="url(#f3)"/>
+		<image xlink:href="https://rawgit.com/terresolide/systeme-terre-svg/master/logos/formater.png" x="0" y="0" height="86" width="210" />
+	</a>
+</g>
+<g id="theia" transform="translate(44,177)">
+	<a xlink:href="http://www.theia-land.fr/" xlink:title="Theia - Data and Services for Continental Surfaces" target="_blank">
+		<rect  x="0" y="0" height="80" width="266"  filter="url(#f3)"/>
+		<image xlink:href="https://rawgit.com/terresolide/systeme-terre-svg/master/logos/theia.png" x="0" y="0" height="80" width="266" />
+	</a>
+</g>
+<g id="odatis" transform="translate(305,297)">
+	<a  xlink:href="http://www.odatis-ocean.fr/" xlink:title="Odatis - Data and Services fot the Ocean" target="_blank">
+		<rect  x="0" y="0" height="90" width="210"  filter="url(#f3)"/>
+		<image xlink:href="https://rawgit.com/terresolide/systeme-terre-svg/master/logos/odatis.png" x="0" y="0" height="90" width="210" />
+	</a>
+	<!--<animateTransform attributeName="transform" 
+	type="translate"
+	 from="318 42"
+    to="305 297"
+    begin="0s"
+    dur=".5s"></animateTransform>-->
+</g>
+
+
+</g>
+</svg>
