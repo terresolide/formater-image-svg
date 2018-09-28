@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg id="shema_gouvernance" version="1.2" baseProfile="tiny" width="228mm" height="138mm" viewBox="0 0 22800 13800" preserveAspectRatio="xMidYMid" fill-rule="evenodd" clip-path="url(#presentation_clip_path)" stroke-width="28.222" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg" xmlns:ooo="http://xml.openoffice.org/svg/export" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
+<style type="text/css">
+  <![CDATA[
+  #shema_gouvernance a text:hover{
+	stroke: rgb(255,255,255);
+	fill: rgb(255,255,255);
+	text-decoration: underline;
+	transform: translate(20px);
+   }
+  ]]>
+  </style>
+ <defs class="ClipPathGroup">
+  <clipPath id="presentation_clip_path" clipPathUnits="userSpaceOnUse">
+   <rect x="0" y="0" width="22800" height="13800"/>
+  </clipPath>
+ </defs>
+ 
+ <defs class="TextShapeIndex">
+  <g ooo:slide="id1" ooo:id-list="id3 id4 id5 id6 id7 id8 id9 id10 id11 id12 id13 id14 id15 id16 id17 id18 id19 id20 id21 id22 id23 id24 id25 id26 id27 id28 id29 id30 id31 id32 id33 id34 id35 id36 id37 id38 id39 id40 id41 id42 id43 id44 id45 id46 id47 id48 id49 id50 id51"/>
+ </defs>
+ <defs class="EmbeddedBulletChars">
+  <g id="bullet-char-template(57356)" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 580,1141 L 1163,571 580,0 -4,571 580,1141 Z"/>
+  </g>
+  <g id="bullet-char-template(57354)" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 8,1128 L 1137,1128 1137,0 8,0 8,1128 Z"/>
+  </g>
+  <g id="bullet-char-template(10146)" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 174,0 L 602,739 174,1481 1456,739 174,0 Z M 1358,739 L 309,1346 659,739 1358,739 Z"/>
+  </g>
+  <g id="bullet-char-template(10132)" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 2015,739 L 1276,0 717,0 1260,543 174,543 174,936 1260,936 717,1481 1274,1481 2015,739 Z"/>
+  </g>
+  <g id="bullet-char-template(10007)" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 0,-2 C -7,14 -16,27 -25,37 L 356,567 C 262,823 215,952 215,954 215,979 228,992 255,992 264,992 276,990 289,987 310,991 331,999 354,1012 L 381,999 492,748 772,1049 836,1024 860,1049 C 881,1039 901,1025 922,1006 886,937 835,863 770,784 769,783 710,716 594,584 L 774,223 C 774,196 753,168 711,139 L 727,119 C 717,90 699,76 672,76 641,76 570,178 457,381 L 164,-76 C 142,-110 111,-127 72,-127 30,-127 9,-110 8,-76 1,-67 -2,-52 -2,-32 -2,-23 -1,-13 0,-2 Z"/>
+  </g>
+  <g id="bullet-char-template(10004)" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 285,-33 C 182,-33 111,30 74,156 52,228 41,333 41,471 41,549 55,616 82,672 116,743 169,778 240,778 293,778 328,747 346,684 L 369,508 C 377,444 397,411 428,410 L 1163,1116 C 1174,1127 1196,1133 1229,1133 1271,1133 1292,1118 1292,1087 L 1292,965 C 1292,929 1282,901 1262,881 L 442,47 C 390,-6 338,-33 285,-33 Z"/>
+  </g>
+  <g id="bullet-char-template(9679)" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 813,0 C 632,0 489,54 383,161 276,268 223,411 223,592 223,773 276,916 383,1023 489,1130 632,1184 813,1184 992,1184 1136,1130 1245,1023 1353,916 1407,772 1407,592 1407,412 1353,268 1245,161 1136,54 992,0 813,0 Z"/>
+  </g>
+  <g id="bullet-char-template(8226)" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 346,457 C 273,457 209,483 155,535 101,586 74,649 74,723 74,796 101,859 155,911 209,963 273,989 346,989 419,989 480,963 531,910 582,859 608,796 608,723 608,648 583,586 532,535 482,483 420,457 346,457 Z"/>
+  </g>
+  <g id="bullet-char-template(8211)" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M -4,459 L 1135,459 1135,606 -4,606 -4,459 Z"/>
+  </g>
+ </defs>
+ <defs class="TextEmbeddedBitmaps"/>
+ <g>
+  <g id="id2" class="Master_Slide">
+   <g id="bg-id2" class="Background"/>
+   <g id="bo-id2" class="BackgroundObjects"/>
+  </g>
+ </g>
+ <g class="SlideGroup">
+  <g>
+   <g id="id1" class="Slide" clip-path="url(#presentation_clip_path)">
+    <g class="Page">
+     <g class="com.sun.star.drawing.CustomShape">
+      <g id="id3">
+       <path fill="rgb(178,86,90)" stroke="none" d="M 969,500 C 734,500 500,734 500,969 L 500,12831 C 500,13066 734,13301 969,13301 L 10631,13301 C 10866,13301 11101,13066 11101,12831 L 11101,969 C 11101,734 10866,500 10631,500 L 969,500 Z M 500,500 L 500,500 Z M 11101,13301 L 11101,13301 Z"/>
+       <path fill="none" stroke="rgb(140,2,9)" d="M 969,500 C 734,500 500,734 500,969 L 500,12831 C 500,13066 734,13301 969,13301 L 10631,13301 C 10866,13301 11101,13066 11101,12831 L 11101,969 C 11101,734 10866,500 10631,500 L 969,500 Z"/>
+       <path fill="none" stroke="rgb(140,2,9)" d="M 500,500 L 500,500 Z"/>
+       <path fill="none" stroke="rgb(140,2,9)" d="M 11101,13301 L 11101,13301 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.TextShape">
+      <g id="id4">
+       <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Serif, serif" font-size="540px" font-style="italic" font-weight="700"><tspan class="TextPosition" x="1002" y="1392"><tspan fill="rgb(255,255,255)" stroke="none">Décision</tspan></tspan></tspan></text>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.CustomShape">
+      <g id="id5">
+       <path fill="rgb(140,2,9)" stroke="none" d="M 1011,1600 C 855,1600 700,1755 700,1911 L 700,6689 C 700,6845 855,7001 1011,7001 L 10589,7001 C 10745,7001 10901,6845 10901,6689 L 10901,1911 C 10901,1755 10745,1600 10589,1600 L 1011,1600 Z M 700,1600 L 700,1600 Z M 10901,7001 L 10901,7001 Z"/>
+       <path fill="none" stroke="rgb(140,2,9)" d="M 1011,1600 C 855,1600 700,1755 700,1911 L 700,6689 C 700,6845 855,7001 1011,7001 L 10589,7001 C 10745,7001 10901,6845 10901,6689 L 10901,1911 C 10901,1755 10745,1600 10589,1600 L 1011,1600 Z"/>
+       <path fill="none" stroke="rgb(140,2,9)" d="M 700,1600 L 700,1600 Z"/>
+       <path fill="none" stroke="rgb(140,2,9)" d="M 10901,7001 L 10901,7001 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.TextShape">
+      <g id="id6">
+       <a xlink:href="https://www7.obs-mip.fr/formater/teams/cmp/" xlink:title="Composition du CMP">
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica, Arial, sans-serif" font-size="540px" font-weight="700"><tspan class="TextPosition" x="1500" y="2322"><tspan fill="rgb(255,255,255)" stroke="none">Comité de mise en place (CMP)</tspan></tspan></tspan></text>
+       </a>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.TextShape">
+      <g id="id7">
+       <a xlink:href="http://www.ign.fr/" xlink:title="Institut National de l'Information Géographique et Forestière">
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica, Arial, sans-serif" font-size="460px" font-weight="400"><tspan class="TextPosition" x="950" y="4204"><tspan fill="rgb(255,255,255)" stroke="none">IGN</tspan></tspan></tspan></text>
+       </a>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.TextShape">
+      <g id="id8">
+       <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica, Arial, sans-serif" font-size="460px" font-style="italic" font-weight="400"><tspan class="TextPosition" x="750" y="3154"><tspan fill="rgb(255,255,255)" stroke="none">Partenaires représentés</tspan></tspan></tspan></text>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.TextShape">
+      <g id="id9">
+       <a xlink:href="http://www.cea.fr/" xlink:title="Commissariat à l'Energie Atomique">
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica, Arial, sans-serif" font-size="460px" font-weight="400"><tspan class="TextPosition" x="950" y="5104"><tspan fill="rgb(255,255,255)" stroke="none">CEA</tspan></tspan></tspan></text>
+       </a>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.TextShape">
+      <g id="id10">
+       <a xlink:href="http://www.ird.fr/" xlink:title="Institut de Recherche pour le Développement">
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica, Arial, sans-serif" font-size="460px" font-weight="400"><tspan class="TextPosition" x="950" y="6004"><tspan fill="rgb(255,255,255)" stroke="none">IRD</tspan></tspan></tspan></text>
+       </a>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.TextShape">
+      <g id="id11">
+       <a xlink:href="http://www.brgm.fr/" xlink:title="Bureau de Recherche Géologiques et Minières">
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica, Arial, sans-serif" font-size="460px" font-weight="400"><tspan class="TextPosition" x="2550" y="4204"><tspan fill="rgb(255,255,255)" stroke="none">BRGM</tspan></tspan></tspan></text>
+       </a>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.TextShape">
+      <g id="id12">
+       <a xlink:href="http://www.ipgp.fr" xlink:title="Institut de Physique du Globe">
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica, Arial, sans-serif" font-size="460px" font-weight="400"><tspan class="TextPosition" x="2550" y="5104"><tspan fill="rgb(255,255,255)" stroke="none">IPGP</tspan></tspan></tspan></text>
+       </a>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.TextShape">
+      <g id="id13">
+       <a xlink:href="http://www.shom.fr/" xlink:title="Service Hydrographique et Océanographique de la Marine">
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica, Arial, sans-serif" font-size="460px" font-weight="400"><tspan class="TextPosition" x="2550" y="6004"><tspan fill="rgb(255,255,255)" stroke="none">SHOM</tspan></tspan></tspan></text>
+       </a>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.TextShape">
+      <g id="id14">
+       <a xlink:href="https://cnes.fr/fr" xlink:title="Centre National d'Etudes Spatiales">
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica, Arial, sans-serif" font-size="460px" font-weight="400"><tspan class="TextPosition" x="4450" y="4204"><tspan fill="rgb(255,255,255)" stroke="none">CNES</tspan></tspan></tspan></text>
+       </a>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.TextShape">
+      <g id="id15">
+       <a xlink:href="http://www.insu.cnrs.fr/" xlink:title="Institut National des Sciences de l'Univers">
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica, Arial, sans-serif" font-size="460px" font-weight="400"><tspan class="TextPosition" x="4450" y="5104"><tspan fill="rgb(255,255,255)" stroke="none">INSU</tspan></tspan></tspan></text>
+       </a>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.TextShape">
+      <g id="id16">
+       <a xlink:href="http://www.resif.fr/" xlink:title="Réseau Sismologiques et géologiques français">
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica, Arial, sans-serif" font-size="460px" font-weight="400"><tspan class="TextPosition" x="4450" y="6004"><tspan fill="rgb(255,255,255)" stroke="none">RESIF</tspan></tspan></tspan></text>
+       </a>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.TextShape">
+      <g id="id17">
+       <a xlink:href="http://www.obs-mip.fr/" xlink:title="Observatoire Midi-Pyrénées">
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica, Arial, sans-serif" font-size="460px" font-weight="400"><tspan class="TextPosition" x="6550" y="4204"><tspan fill="rgb(255,255,255)" stroke="none">Obs. Midi-Pyr.</tspan></tspan></tspan></text>
+       </a>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.TextShape">
+      <g id="id18">
+       <a xlink:href="https://www.oca.eu/"  xlink:title="Observatoire Côte d'Azur">
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica, Arial, sans-serif" font-size="460px" font-weight="400"><tspan class="TextPosition" x="6550" y="5104"><tspan fill="rgb(255,255,255)" stroke="none">Obs. Côte d&apos;Azur </tspan></tspan></tspan></text>
+       </a>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.TextShape">
+      <g id="id19">
+       <a xlink:href="https://www.obspm.fr/" xlink:title="Observatoire de Paris">
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica, Arial, sans-serif" font-size="460px" font-weight="400"><tspan class="TextPosition" x="6550" y="6004"><tspan fill="rgb(255,255,255)" stroke="none">Obs. Paris</tspan></tspan></tspan></text>
+       </a>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.CustomShape">
+      <g id="id20">
+       <path fill="rgb(140,2,9)" stroke="none" d="M 1011,7301 C 855,7301 700,7456 700,7612 L 700,12390 C 700,12546 855,12702 1011,12702 L 10588,12702 C 10744,12702 10900,12546 10900,12390 L 10900,7612 C 10900,7456 10744,7301 10588,7301 L 1011,7301 Z M 700,7301 L 700,7301 Z M 10900,12702 L 10900,12702 Z"/>
+       <path fill="none" stroke="rgb(140,2,9)" d="M 1011,7301 C 855,7301 700,7456 700,7612 L 700,12390 C 700,12546 855,12702 1011,12702 L 10588,12702 C 10744,12702 10900,12546 10900,12390 L 10900,7612 C 10900,7456 10744,7301 10588,7301 L 1011,7301 Z"/>
+       <path fill="none" stroke="rgb(140,2,9)" d="M 700,7301 L 700,7301 Z"/>
+       <path fill="none" stroke="rgb(140,2,9)" d="M 10900,12702 L 10900,12702 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.TextShape">
+      <g id="id21">
+       <a xlink:href="https://www7.obs-mip.fr/formater/teams/cs/" xlink:title="Composition du Comité Scientifique">
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica, Arial, sans-serif" font-size="540px" font-weight="700"><tspan class="TextPosition" x="2377" y="8072"><tspan fill="rgb(255,255,255)" stroke="none">Comité scientifique  (CS)</tspan></tspan></tspan></text>
+       </a>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.TextShape">
+      <g id="id22">
+       <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica, Arial, sans-serif" font-size="460px" font-style="italic" font-weight="400"><tspan class="TextPosition" x="750" y="8754"><tspan fill="rgb(255,255,255)" stroke="none">Représentants</tspan></tspan></tspan></text>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.TextShape">
+      <g id="id23">
+       <a xlink:href="http://www.legos.obs-mip.fr/" xlink:title="Laboratoire d'Etudes en Géophysique et Océanographie Spatiales">
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica, Arial, sans-serif" font-size="460px" font-weight="400"><tspan class="TextPosition" x="950" y="9604"><tspan fill="rgb(255,255,255)" stroke="none">LEGOS</tspan></tspan></tspan></text>
+       </a>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.TextShape">
+      <g id="id24">
+       <a xlink:href="https://eost.unistra.fr/" xlink:title="Ecole et Observatoire des Sciences de la Terre">
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica, Arial, sans-serif" font-size="460px" font-weight="400"><tspan class="TextPosition" x="950" y="10504"><tspan fill="rgb(255,255,255)" stroke="none">EOST</tspan></tspan></tspan></text>
+       </a>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.TextShape">
+      <g id="id25">
+       <a xlink:href="https://www.cls.fr/" xlink:title="Collecte Localisation Satellites">
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica, Arial, sans-serif" font-size="460px" font-weight="400"><tspan class="TextPosition" x="950" y="11404"><tspan fill="rgb(255,255,255)" stroke="none">CLS</tspan></tspan></tspan></text>
+       </a>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.TextShape">
+      <g id="id26">
+       <a xlink:href="http://recherche.ign.fr/labos/lareg/page.php" xlink:title="Laboratoire de Recherche en Géodésie">
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica, Arial, sans-serif" font-size="460px" font-weight="400"><tspan class="TextPosition" x="950" y="12304"><tspan fill="rgb(255,255,255)" stroke="none">LAREG</tspan></tspan></tspan></text>
+       </a>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.TextShape">
+      <g id="id27">
+       <a xlink:href="https://cnes.fr/fr" xlink:title="Centre National d'Etudes Spatiales">
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica, Arial, sans-serif" font-size="460px" font-weight="400"><tspan class="TextPosition" x="2850" y="9604"><tspan fill="rgb(255,255,255)" stroke="none">CNES</tspan></tspan></tspan></text>
+       </a>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.TextShape">
+      <g id="id28">
+       <a xlink:href="https://isterre.fr/" xlink:title="Institut des Sciences de la Terre">
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica, Arial, sans-serif" font-size="460px" font-weight="400"><tspan class="TextPosition" x="2850" y="10504"><tspan fill="rgb(255,255,255)" stroke="none">ISTerre</tspan></tspan></tspan></text>
+       </a>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.TextShape">
+      <g id="id29">
+       <a xlink:href="http://www.cerege.fr/" xlink:title="Centre Européen de Recherche et d'Enseignement des géosciences de l'Environnement">
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica, Arial, sans-serif" font-size="460px" font-weight="400"><tspan class="TextPosition" x="2850" y="11404"><tspan fill="rgb(255,255,255)" stroke="none">CEREGE</tspan></tspan></tspan></text>
+       </a>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.TextShape">
+      <g id="id30">
+       <a xlink:href="http://www.ipgp.fr/" xlink:title="Institut de Physique du Globe de Paris">
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica, Arial, sans-serif" font-size="460px" font-weight="400"><tspan class="TextPosition" x="2850" y="12304"><tspan fill="rgb(255,255,255)" stroke="none">IPGP</tspan></tspan></tspan></text>
+       </a>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.TextShape">
+      <g id="id31">
+       <a xlink:href="http://www.gm.univ-montp2.fr/" xlink:title="Géosciences Montpellier">
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica, Arial, sans-serif" font-size="460px" font-weight="400"><tspan class="TextPosition" x="5050" y="10504"><tspan fill="rgb(255,255,255)" stroke="none">GM</tspan></tspan></tspan></text>
+       </a>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.TextShape">
+      <g id="id32">
+       <a xlink:href="http://wwwobs.univ-bpclermont.fr/opgc/index.php" xlink:title="Observatoire de Physique du Globe de Clermont-ferrand" >
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica, Arial, sans-serif" font-size="460px" font-weight="400"><tspan class="TextPosition" x="5050" y="11404"><tspan fill="rgb(255,255,255)" stroke="none">OPGC</tspan></tspan></tspan></text>
+       </a>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.TextShape">
+      <g id="id33">
+       <a xlink:href="http://int.polytech.univ-smb.fr/index.php?id=listic-accueil" xlink:title="Laboratoire d'Informatique, Systèmes, Traitement de l'Information et de la Connaissance">
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica, Arial, sans-serif" font-size="460px" font-weight="400"><tspan class="TextPosition" x="5050" y="12304"><tspan fill="rgb(255,255,255)" stroke="none">LISTIC</tspan></tspan></tspan></text>
+       </a>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.TextShape">
+      <g id="id34">
+       <a xlink:href="http://geops.geol.u-psud.fr/" xlink:title="Géosciences Paris Sud">
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica, Arial, sans-serif" font-size="460px" font-weight="400"><tspan class="TextPosition" x="6750" y="10504"><tspan fill="rgb(255,255,255)" stroke="none">GEOPS</tspan></tspan></tspan></text>
+       </a>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.TextShape">
+      <g id="id35">
+       <a xlink:href="https://lpg-umr6112.fr/"  xlink:title="Laboratoire de Planétologie et Geodynamique">
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica, Arial, sans-serif" font-size="460px" font-weight="400"><tspan class="TextPosition" x="6750" y="11404"><tspan fill="rgb(255,255,255)" stroke="none">LPG</tspan></tspan></tspan></text>
+       </a>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.TextShape">
+      <g id="id36">
+       <a xlink:href="http://lienss.univ-larochelle.fr/" xlink:title="LIttoral ENvironnement et Sociétés">
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica, Arial, sans-serif" font-size="460px" font-weight="400"><tspan class="TextPosition" x="6750" y="12304"><tspan fill="rgb(255,255,255)" stroke="none">LIENSs</tspan></tspan></tspan></text>
+       </a>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.TextShape">
+      <g id="id37">
+       <a xlink:href="https://geoazur.oca.eu/" xlink:title="GeoAzur">
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica, Arial, sans-serif" font-size="460px" font-weight="400"><tspan class="TextPosition" x="8650" y="10504"><tspan fill="rgb(255,255,255)" stroke="none">GeoAzur</tspan></tspan></tspan></text>
+       </a>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.TextShape">
+      <g id="id38">
+       <a xlink:href="http://lgltpe.ens-lyon.fr/" xlink:title="Laboratoire de Géologie de Lyon Terre Planère Environnement">
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica, Arial, sans-serif" font-size="460px" font-weight="400"><tspan class="TextPosition" x="8650" y="11404"><tspan fill="rgb(255,255,255)" stroke="none">LGLTPE</tspan></tspan></tspan></text>
+       </a>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.TextShape">
+      <g id="id39">
+       <a xlink:href="https://www-iuem.univ-brest.fr/lgo/" xlink:title="Laboratoire Géosciences Océan">
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica, Arial, sans-serif" font-size="460px" font-weight="400"><tspan class="TextPosition" x="8650" y="12304"><tspan fill="rgb(255,255,255)" stroke="none">LGO</tspan></tspan></tspan></text>
+       </a>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.CustomShape">
+      <g id="id40">
+       <path fill="rgb(221,153,70)" stroke="none" d="M 12070,501 C 11835,501 11601,735 11601,970 L 11601,12832 C 11601,13067 11835,13302 12070,13302 L 21732,13302 C 21967,13302 22202,13067 22202,12832 L 22202,970 C 22202,735 21967,501 21732,501 L 12070,501 Z M 11601,501 L 11601,501 Z M 22202,13302 L 22202,13302 Z"/>
+       <path fill="none" stroke="rgb(172,108,31)" d="M 12070,501 C 11835,501 11601,735 11601,970 L 11601,12832 C 11601,13067 11835,13302 12070,13302 L 21732,13302 C 21967,13302 22202,13067 22202,12832 L 22202,970 C 22202,735 21967,501 21732,501 L 12070,501 Z"/>
+       <path fill="none" stroke="rgb(172,108,31)" d="M 11601,501 L 11601,501 Z"/>
+       <path fill="none" stroke="rgb(172,108,31)" d="M 22202,13302 L 22202,13302 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.TextShape">
+      <g id="id41">
+       <path fill="rgb(221,153,70)" stroke="none" d="M 13427,1663 L 11853,1663 11853,701 15001,701 15001,1663 13427,1663 Z"/>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Serif, serif" font-size="540px" font-style="italic" font-weight="700"><tspan class="TextPosition" x="12103" y="1393"><tspan fill="rgb(255,255,255)" stroke="none">Exécutif</tspan></tspan></tspan></text>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.CustomShape">
+      <g id="id42">
+       <path fill="rgb(172,108,31)" stroke="none" d="M 12112,1601 C 11956,1601 11801,1756 11801,1912 L 11801,6690 C 11801,6846 11956,7002 12112,7002 L 21690,7002 C 21846,7002 22002,6846 22002,6690 L 22002,1912 C 22002,1756 21846,1601 21690,1601 L 12112,1601 Z M 11801,1601 L 11801,1601 Z M 22002,7002 L 22002,7002 Z"/>
+       <path fill="none" stroke="rgb(172,108,31)" d="M 12112,1601 C 11956,1601 11801,1756 11801,1912 L 11801,6690 C 11801,6846 11956,7002 12112,7002 L 21690,7002 C 21846,7002 22002,6846 22002,6690 L 22002,1912 C 22002,1756 21846,1601 21690,1601 L 12112,1601 Z"/>
+       <path fill="none" stroke="rgb(172,108,31)" d="M 11801,1601 L 11801,1601 Z"/>
+       <path fill="none" stroke="rgb(172,108,31)" d="M 22002,7002 L 22002,7002 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.TextShape">
+      <g id="id43">
+       <a xlink:href="https://www7.obs-mip.fr/formater/teams/executive/" xlink:title="Composition de l'équipe exécutive">
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica, Arial, sans-serif" font-size="540px" font-weight="700"><tspan class="TextPosition" x="14333" y="2323"><tspan fill="rgb(255,255,255)" stroke="none">É</tspan><tspan fill="rgb(255,255,255)" stroke="none">quipe exécutive</tspan></tspan></tspan></text>
+       </a>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.CustomShape">
+      <g id="id44">
+       <path fill="rgb(172,108,31)" stroke="none" d="M 12112,7302 C 11956,7302 11801,7457 11801,7613 L 11801,12391 C 11801,12547 11956,12703 12112,12703 L 21689,12703 C 21845,12703 22001,12547 22001,12391 L 22001,7613 C 22001,7457 21845,7302 21689,7302 L 12112,7302 Z M 11801,7302 L 11801,7302 Z M 22001,12703 L 22001,12703 Z"/>
+       <path fill="none" stroke="rgb(172,108,31)" d="M 12112,7302 C 11956,7302 11801,7457 11801,7613 L 11801,12391 C 11801,12547 11956,12703 12112,12703 L 21689,12703 C 21845,12703 22001,12547 22001,12391 L 22001,7613 C 22001,7457 21845,7302 21689,7302 L 12112,7302 Z"/>
+       <path fill="none" stroke="rgb(172,108,31)" d="M 11801,7302 L 11801,7302 Z"/>
+       <path fill="none" stroke="rgb(172,108,31)" d="M 22001,12703 L 22001,12703 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.TextShape">
+      <g id="id45">
+       <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica, Arial, sans-serif" font-size="540px" font-weight="700"><tspan class="TextPosition" x="12390" y="8073"><tspan fill="rgb(255,255,255)" stroke="none">É</tspan><tspan fill="rgb(255,255,255)" stroke="none">quipes techniques et scientifiques</tspan></tspan></tspan></text>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.TextShape">
+      <g id="id46">
+   
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica, Arial, sans-serif" font-size="460px" font-weight="400"><tspan class="TextPosition" x="12550" y="4205"><tspan fill="rgb(255,255,255)" stroke="none">Directeur</tspan></tspan></tspan></text>
+   
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.TextShape">
+      <g id="id47">
+
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica, Arial, sans-serif" font-size="460px" font-weight="400"><tspan class="TextPosition" x="16050" y="4205"><tspan fill="rgb(255,255,255)" stroke="none">Co-directeur</tspan></tspan></tspan></text>
+
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.TextShape">
+      <g id="id48">
+
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica, Arial, sans-serif" font-size="460px" font-weight="400"><tspan class="TextPosition" x="12550" y="5105"><tspan fill="rgb(255,255,255)" stroke="none">Adjointe</tspan></tspan></tspan></text>
+
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.TextShape">
+      <g id="id49">
+ 
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica, Arial, sans-serif" font-size="460px" font-weight="400"><tspan class="TextPosition" x="16050" y="5105"><tspan fill="rgb(255,255,255)" stroke="none">Chef de projet technique</tspan></tspan></tspan></text>
+ 
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.TextShape">
+      <g id="id50">
+
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica, Arial, sans-serif" font-size="460px" font-weight="400"><tspan class="TextPosition" x="12550" y="9605"><tspan fill="rgb(255,255,255)" stroke="none">É</tspan><tspan fill="rgb(255,255,255)" stroke="none">quipes projets</tspan></tspan></tspan></text>
+
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.TextShape">
+      <g id="id51">
+  
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica, Arial, sans-serif" font-size="460px" font-weight="400"><tspan class="TextPosition" x="12550" y="10505"><tspan fill="rgb(255,255,255)" stroke="none">É</tspan><tspan fill="rgb(255,255,255)" stroke="none">quipes scientifiques</tspan></tspan></tspan></text>
+
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

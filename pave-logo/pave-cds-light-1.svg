@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="pave-cds" version="1.2" width="1000px" height="520px" viewBox="0 0 1200 700" preserveAspectRatio="xMidYMid" fill-rule="evenodd" clip-path="url(#presentation_clip_path)" stroke-width="28.222" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg" xmlns:ooo="http://xml.openoffice.org/svg/export" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
+<style type="text/css">
+  <![CDATA[
+#pave-cds a:hover rect{
+	stroke: rgb(140,2,9);
+	stroke-width:3px;
+
+   }
+#pave-cds image.iers{
+	filter:url(#f4);
+}
+#pave-cds a:hover image.iers{
+        opacity:0.99;
+	filter:url(#f5);
+}
+  ]]>
+ </style>
+<defs><filter id="f3" x="0" y="0" width="200%" height="150%"><feOffset result="offOut" in="SourceGraphic" dx="5" dy="5"/><feGaussianBlur result="blurOut" in="offOut" stdDeviation="3"/><feBlend in="SourceGraphic" in2="blurOut" mode="normal"/></filter>
+
+<filter id="f4" color-interpolation-filters="sRGB"><feOffset result="offOut" in="SourceAlpha" dx="5" dy="5"/>
+ <feColorMatrix in="offOut" result="matrixOut" type="matrix" values="1 0 0 0 0                                              0 1 0 0 0                                              0 0 1 0 0                                               0 0 0 1 0"/>
+<feGaussianBlur result="blurOut" in="matrixOut" stdDeviation="3"/><feBlend in="SourceGraphic" in2="blurOut" mode="normal"/></filter>
+<filter id="f5" color-interpolation-filters="sRGB"><feOffset result="offOut" in="SourceAlpha" dx="5" dy="5"/>
+ <feColorMatrix in="offOut" result="matrixOut" type="matrix" values="0 0 0 0.9 0                                              0 0 0 0.3 0                                              0 0 0 0.3 0                                               0 0 0 1 0"/>
+<feGaussianBlur result="blurOut" in="matrixOut" stdDeviation="3"/><feBlend in="SourceGraphic" in2="blurOut" mode="normal"/></filter>
+</defs>
+<g>
+
+<a xlink:href="http://www.emso-fr.org" xlink:title="Observatoire du fond de mer et de la colonne d'eau" target="_blank">
+<rect  x="24" y="52" height="107" width="250" filter="url(#f3)"/>
+<image xlink:href="https://www7.obs-mip.fr/wp-content-aeris/uploads/sites/4/2018/06/logo_emso_large-300x128.png"  x="24" y="52" height="107" width="250"/>
+</a>
+
+<a xlink:href="http://www.sonel.org/" xlink:title="SONEL" target="_blank">
+<rect x="469" y="15" height="132" width="240" filter="url(#f3)"/>
+<image xlink:href="https://www7.obs-mip.fr/wp-content-aeris/uploads/sites/4/2017/12/sonel.gif" x="469" y="15" height="132" width="240"/>
+</a>
+
+<a xlink:href="http://centrededonnees.ipgp.fr/" xlink:title="Centre de données IPGP" target="_blank">
+<rect x="286" y="10" height="176" width="160" filter="url(#f3)"/>
+<image xlink:href="https://www7.obs-mip.fr/wp-content-aeris/uploads/sites/4/2018/05/logo-ipgp-data-center.jpg" x="286" y="10" height="176" width="160"/>
+</a>
+
+<a xlink:href="http://rgp.ign.fr/?lang=fr" xlink:title="Réseau GNSS permanent" target="_blank">
+<rect x="456" y="155" height="100" width="299" filter="url(#f3)"/>
+<image xlink:href="https://www7.obs-mip.fr/wp-content-aeris/uploads/sites/4/2018/05/rgp_ign_logo.png" x="456" y="155" height="100" width="300"/>
+</a>
+
+<a xlink:href="http://renag.resif.fr/" xlink:title="REseau NAtional GNSS permanent" target="_blank">
+<rect x="24" y="173" height="132" width="230" filter="url(#f3)"/>
+
+<image xlink:href="https://www7.obs-mip.fr/wp-content-aeris/uploads/sites/4/2017/10/resif-renag2.png" x="24" y="173" height="132" width="230"/>
+</a>
+
+<a xlink:href="http://igets.u-strasbg.fr/" xlink:title="Service international de géodynamique et de marées terrestres" target="_blank">
+<rect x="24" y="327" height="140" width="230" filter="url(#f3)"/>
+
+<image xlink:href="https://www7.obs-mip.fr/wp-content-aeris/uploads/sites/4/2018/05/logo_IGETS-600-300x182.jpg" x="24" y="327" height="140" width="230"/>
+</a>
+
+<a xlink:href="http://isgi.unistra.fr/" xlink:title="Service International des Indices Géomagnétiques" target="_blank">
+<rect x="272" y="205" height="189" width="160" filter="url(#f3)"/>
+<rect x="272" y="205" height="189" width="160" fill="#fff"/>
+<image xlink:href="https://www7.obs-mip.fr/wp-content-aeris/uploads/sites/4/2017/12/logo_ISGI.gif" x="272" y="205" height="189" width="160"/>
+</a>
+
+<a xlink:href="http://data.shom.fr" xlink:title="Information géographique maritime de référence" target="_blank">
+<rect x="447" y="285" height="101" width="300" filter="url(#f3)"/>
+<image xlink:href="https://www7.obs-mip.fr/wp-content-aeris/uploads/sites/4/2017/10/shom-data.png" x="447" y="285" height="101" width="300"/>
+</a>
+
+<a xlink:href="http://hpiers.obspm.fr/eop-pc/index.php" xlink:title="Service International de Rotation de la Terre" target="_blank">
+<image class="iers" xlink:href="https://www7.obs-mip.fr/wp-content-aeris/uploads/sites/4/2018/02/iers.png" x="808" y="293" height="102" width="100" />
+</a>
+
+<a xlink:href="http://seismology.resif.fr/" xlink:title="Centre de données sismologiques" target="_blank">
+<rect x="917" y="509.5" height="132" width="230" filter="url(#f3)"/>
+<image xlink:href="https://www7.obs-mip.fr/wp-content-aeris/uploads/sites/4/2017/10/resif2.png" x="917" y="510" height="132" width="230"/>
+</a>
+
+<a xlink:href="http://bgi.obs-mip.fr/" xlink:title="Bureau Gravimétrique International" target="_blank">
+<rect x="746" y="11" height="132" width="209.5" filter="url(#f3)"/>
+<image xlink:href="https://www7.obs-mip.fr/wp-content-aeris/uploads/sites/4/2017/10/logo-bgi.png" x="746" y="11" height="132" width="210"/>
+</a>
+
+<a xlink:href="http://www.bcmt.fr/index.html" xlink:title="Bureau Central de Magnétisme Terrestre" target="_blank">
+<rect x="298" y="408" height="92" width="650" filter="url(#f3)"/>
+<image xlink:href="https://www7.obs-mip.fr/wp-content-aeris/uploads/sites/4/2017/10/bcmt.png" x="298" y="408" height="92" width="650"/>
+</a>
+
+<a xlink:href="https://ids-doris.org/" xlink:title="International DORIS Service" target="_blank">
+<rect x="58" y="519" height="100" width="269" filter="url(#f3)"/>
+<image xlink:href="https://www7.obs-mip.fr/wp-content-aeris/uploads/sites/4/2018/08/logo_IDS.png" x="58" y="519" height="100" width="269"/>
+</a>
+
+<a xlink:href="http://www.ano-omiv.cnrs.fr/" xlink:title="Observatoire Multidisciplinaire des Instabilités de Versant" target="_blank">
+<rect x="818.5" y="155" height="130" width="270" filter="url(#f3)"/>
+<image xlink:href="https://www7.obs-mip.fr/wp-content-aeris/uploads/sites/4/2018/08/omiv.png" x="819" y="155" height="130" width="270"/>
+</a>
+
+<a xlink:href="http://itrf.ign.fr/" xlink:title="International Terrestrial Reference Frame" target="_blank">
+<rect x="981.5" y="333" height="135" width="158" filter="url(#f3)"/>
+<image xlink:href="https://www7.obs-mip.fr/wp-content-aeris/uploads/sites/4/2018/08/irtf_ign.png" x="982" y="333" height="135" width="158" />
+</a>
+
+<a xlink:href="https://grace.obs-mip.fr/" xlink:title="Gravity Variations from GRACE and LAGEOS data from CNES/GRGS" target="_blank">
+<rect x="388" y="525" height="141" width="500" filter="url(#f3)"/>
+<image xlink:href="https://www7.obs-mip.fr/wp-content-aeris/uploads/sites/4/2018/08/grace_lageos.png" x="388" y="525" height="141" width="500" />
+</a>
+</g>
+</svg>

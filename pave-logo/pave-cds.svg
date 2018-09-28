@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="pave-cds" version="1.2" width="1000px" height="520px" viewBox="0 0 1000 500" preserveAspectRatio="xMidYMid" fill-rule="evenodd" clip-path="url(#presentation_clip_path)" stroke-width="28.222" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg" xmlns:ooo="http://xml.openoffice.org/svg/export" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
+<style type="text/css">
+  <![CDATA[
+#pave-cds a:hover rect{
+	stroke: rgb(140,2,9);
+	stroke-width:3px;
+
+   }
+#pave-cds image.ggp{
+	filter:url(#f4);
+}
+#pave-cds a:hover image.ggp{
+        opacity:0.99;
+	filter:url(#f5);
+}
+  ]]>
+ </style>
+<defs><filter id="f3" x="0" y="0" width="200%" height="150%"><feOffset result="offOut" in="SourceGraphic" dx="5" dy="5"/><feGaussianBlur result="blurOut" in="offOut" stdDeviation="3"/><feBlend in="SourceGraphic" in2="blurOut" mode="normal"/></filter>
+
+<filter id="f4"  color-interpolation-filters="sRGB"><feOffset result="offOut" in="SourceAlpha" dx="5" dy="5"/>
+ <feColorMatrix in="offOut" result ="matrixOut" type="matrix"                           
+                                     values="1 0 0 0 0
+                                             0 1 0 0 0
+                                             0 0 1 0 0 
+                                             0 0 0 1 0" />
+<feGaussianBlur result="blurOut" in="matrixOut"  stdDeviation="3"/><feBlend in="SourceGraphic" in2="blurOut" mode="normal"/></filter>
+<filter id="f5"  color-interpolation-filters="sRGB"><feOffset result="offOut" in="SourceAlpha" dx="5" dy="5"/>
+ <feColorMatrix in="offOut" result ="matrixOut" type="matrix"                           
+                                     values="0 0 0 0.9 0
+                                             0 0 0 0.3 0
+                                             0 0 0 0.3 0 
+                                             0 0 0 1 0" />
+<feGaussianBlur result="blurOut" in="matrixOut"  stdDeviation="3"/><feBlend in="SourceGraphic" in2="blurOut" mode="normal"/></filter>
+</defs>
+<g>
+<a xlink:href="http://renass.unistra.fr/" xlink:title="Réseaux National de Surveillance Sismique">
+<rect x="153" y="24" height="82" width="242" filter="url(#f3)"/>
+<image xlink:href="https://www7.obs-mip.fr/wp-content-aeris/uploads/sites/4/2017/10/renass.png" x="153" y="24" height="82" width="242"/>
+</a>
+
+<a xlink:href="http://rgp.ign.fr/" xlink:title="Réseau GNSS permanent">
+<rect x="457" y="9" height="102" width="366" filter="url(#f3)" />
+<image  xlink:href="https://www7.obs-mip.fr/wp-content-aeris/uploads/sites/4/2017/10/resif_rgp.png" x="457" y="9" height="102" width="366"/>
+</a>
+
+<a xlink:href="http://renag.resif.fr/" xlink:title="REseau NAtional GNSS permanent">
+<rect  x="7" y="157" height="143" width="250" filter="url(#f3)"/>
+
+<image  xlink:href="https://www7.obs-mip.fr/wp-content-aeris/uploads/sites/4/2017/10/resif-renag2.png"  x="7" y="157" height="143" width="250"/>
+</a>
+
+<a xlink:href="http://data.shom.fr" xlink:title="Information géographique maritime de référence">
+<rect x="286" y="124" height="101" width="300" filter="url(#f3)"/>
+<image  xlink:href="https://www7.obs-mip.fr/wp-content-aeris/uploads/sites/4/2017/10/shom-data.png"  x="286" y="124" height="101" width="300"/>
+</a>
+
+<a xlink:href="http://www.eas.slu.edu/GGP/ggphome.html" xlink:title="Global Geodynamics Project">
+<image class="ggp" xlink:href="https://www7.obs-mip.fr/wp-content-aeris/uploads/sites/4/2017/10/ggp.png"  x="586" y="238" height="150" width="101"/>
+</a>
+
+<a xlink:href="http://seismology.resif.fr/" xlink:title="Centre de données sismologiques">
+<rect x="730" y="152" height="143" width="250" filter="url(#f3)"/>
+<image  xlink:href="https://www7.obs-mip.fr/wp-content-aeris/uploads/sites/4/2017/10/resif2.png" x="730" y="152" height="144" width="250"/>
+</a>
+
+<a xlink:href="http://bgi.obs-mip.fr/" xlink:title="Bureau Gravimétrique International">
+<rect x="308" y="245" height="132" width="209.5" filter="url(#f3)"/>
+<image xlink:href="https://www7.obs-mip.fr/wp-content-aeris/uploads/sites/4/2017/10/logo-bgi.png"  x="308" y="245" height="132" width="210"/>
+</a>
+
+<a xlink:href="http://www.bcmt.fr/index.html" xlink:title="Bureau Central de Magnétisme Terrestre">
+<rect x="236" y="401" height="99" width="700" filter="url(#f3)"/>
+<image xlink:href="https://www7.obs-mip.fr/wp-content-aeris/uploads/sites/4/2017/10/bcmt.png"  x="236" y="401" height="99" width="700"/>
+</a>
+</g>
+</svg>
