@@ -1,0 +1,18 @@
+{
+  "name": "formater-image-svg",
+  "version": "1.0.0",
+  "description": "svg files for portal",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "svg"
+  ],
+  "author": "epointal",
+  "license": "SEE LICENSE IN https://creativecommons.org/licenses/by/4.0/",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.24.7",
+    "gulp": "^3.9.1"
+  }
+}
