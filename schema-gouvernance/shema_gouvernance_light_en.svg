@@ -12,11 +12,11 @@
    }
   ]]>
   </style>
- <defs class="ClipPathGroup">
+<!--  <defs class="ClipPathGroup">
   <clipPath id="presentation_clip_path" clipPathUnits="userSpaceOnUse">
    <rect x="0" y="0" width="22800" height="13800"/>
   </clipPath>
- </defs>
+ </defs> -->
  
  <defs class="TextShapeIndex">
   <g ooo:slide="id1" ooo:id-list="id3 id4 id5 id6 id7 id8 id9 id10 id11 id12 id13 id14 id15 id16 id17 id18 id19 id20 id21 id22 id23 id24 id25 id26 id27 id28 id29 id30 id31 id32 id33 id34 id35 id36 id37 id38 id39 id40 id41 id42 id43 id44 id45 id46 id47 id48 id49 id50 id51"/>
@@ -84,7 +84,7 @@
      </g>
      <g class="com.sun.star.drawing.TextShape">
       <g id="id6">
-       <a xlink:href="https://www7.obs-mip.fr/formater-en/teams/setting-up-committee/" xlink:title="Composition of the committee">
+       <a xlink:href="https://en.poleterresolide.fr/teams/formater-setting-up-committee/" xlink:title="Composition of the committee">
         <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica, Arial, sans-serif" font-size="540px" font-weight="700"><tspan class="TextPosition" x="2577" y="2322"><tspan fill="rgb(0,0,0)" stroke="none">Setting up Committee</tspan></tspan></tspan></text>
        </a>
       </g>
@@ -188,7 +188,7 @@
      </g>
      <g class="com.sun.star.drawing.TextShape">
       <g id="id21">
-       <a xlink:href="https://www7.obs-mip.fr/formater-en/teams/scientific-committee/" xlink:title="Composition of the Committee">
+       <a xlink:href="https://en.poleterresolide.fr/teams/formater-scientific-committee/" xlink:title="Composition of the Committee">
         <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica, Arial, sans-serif" font-size="540px" font-weight="700"><tspan class="TextPosition" x="2377" y="8072"><tspan fill="rgb(0,0,0)" stroke="none">Scientific Committee  (CS)</tspan></tspan></tspan></text>
        </a>
       </g>

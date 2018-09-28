@@ -19,5 +19,5 @@ gulp.task('serve', function() {
             browser: "firefox"
         }  });
     browserSync.reload()
-    gulp.watch("*.svg").on('change', reload)
+    gulp.watch("./**/*.*").on('change', reload)
 });
