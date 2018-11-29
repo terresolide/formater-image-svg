@@ -3,8 +3,8 @@
 All svg interactive schemas for ForM@Ter website
 
 ## list of schemas
-![système terre](https://github.com/terresolide/systeme-terre-svg/blob/master/systeme-terre/systeme-terre.png){:height="200px;"}
-![pave logo](https://github.com/terresolide/systeme-terre-svg/blob/master/pave-logo/pave-logo.png){:height="200px;"}
+![système terre <](https://github.com/terresolide/systeme-terre-svg/blob/master/systeme-terre/systeme-terre.png)
+![pave logo <](https://github.com/terresolide/systeme-terre-svg/blob/master/pave-logo/pave-logo.png)
 
 ## Build Setup
 ``` bash
