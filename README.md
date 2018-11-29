@@ -3,10 +3,10 @@
 All svg interactive schemas for ForM@Ter website
 
 ## Screenshots of schemas
-![système terre](https://github.com/terresolide/systeme-terre-svg/blob/master/systeme-terre/systeme-terre.png)  
-![pave logo ](https://github.com/terresolide/systeme-terre-svg/blob/master/pave-logo/pave-logo.png)  
-![gouvernance](https://github.com/terresolide/systeme-terre-svg/blob/master/schema-gouvernance/schema-gouvernance.png)  
-![coordination diffusion](https://github.com/terresolide/systeme-terre-svg/blob/master/coordination-diffusion/coordination-diffusion.png)  
+![système terre](https://github.com/terresolide/systeme-terre-svg/blob/master/systeme-terre/systeme-terre.png) 
+![pave logo ](https://github.com/terresolide/systeme-terre-svg/blob/master/pave-logo/pave-logo.png) 
+![gouvernance](https://github.com/terresolide/systeme-terre-svg/blob/master/schema-gouvernance/schema-gouvernance.png) 
+![coordination diffusion](https://github.com/terresolide/systeme-terre-svg/blob/master/coordination-diffusion/coordination-diffusion.png) 
 
 ## Build Setup
 ``` bash
