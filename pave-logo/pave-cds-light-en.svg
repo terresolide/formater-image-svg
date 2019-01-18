@@ -5,7 +5,6 @@
 #pave-cds a:hover rect{
 	stroke: rgb(140,2,9);
 	stroke-width:3px;
-
    }
 #pave-cds image.iers{
 	filter:url(#f4);

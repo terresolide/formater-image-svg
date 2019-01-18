@@ -8,7 +8,6 @@
 #systeme_terre a:hover rect{
 	stroke: rgb(140,2,9);
 	stroke-width:3px;
-
    }
 #systeme_terre ellipse{
  

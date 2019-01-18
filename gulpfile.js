@@ -3,10 +3,17 @@
  * Hot reload when svg change
  */
 var gulp        = require('gulp');
+var path        = require('path');
+var svgmin      = require('gulp-svgmin')
 var browserSync = require('browser-sync').create();
 
-var reload = function(){
+var reload = function(e){
 	console.log('reload')
+	// minify svg
+	console.log(path.basename(e.path));
+	gulp.src(e.path)
+  .pipe(svgmin())
+  .pipe(gulp.dest('./out'));
 	browserSync.reload()
 }
 
@@ -19,5 +26,10 @@ gulp.task('serve', function() {
             browser: "firefox"
         }  });
     browserSync.reload()
-    gulp.watch("./**/*.*").on('change', reload)
+    gulp.watch(
+        ["./coordination-diffusion/*.svg",
+      "./pave-logo/*.svg",
+      "./schema-gouvernance/*.svg", 
+      "./systeme-terre/*.svg"])
+    .on('change', reload)
 });
