@@ -4,16 +4,16 @@
   <![CDATA[
   #systeme_terre a{
     cursor:pointer;
-  }
-#systeme_terre a:hover rect{
+ } 
+#systeme_terre a:hover rect {
 	stroke: rgb(140,2,9);
-	stroke-width:3px;
-
-   }
-#systeme_terre ellipse{
- 
+	stroke-width:3px; 
 }
-  ]]>
+ #systeme_terre a:hover path{
+	stroke: rgb(140,2,9);
+	stroke-width:3px; 
+   }
+ ]]>
  </style>
 <defs><filter id="f3" x="0" y="0" width="200%" height="150%"><feOffset result="offOut" in="SourceGraphic" dx="5" dy="5"/><feGaussianBlur result="blurOut" in="offOut" stdDeviation="3"/><feBlend in="SourceGraphic" in2="blurOut" mode="normal"/></filter>
 
@@ -31,25 +31,25 @@
 <g id="aeris" transform="translate(318,42)">
 	<a xlink:href="https://www.aeris-data.fr/" xlink:title="Aeris - Données et Services pour l'Atmosphère" target="_blank">
 		<rect x="0" y="0" height="92" width="175" filter="url(#f3)"/>
-		<image xlink:href="https://rawgit.com/terresolide/systeme-terre-svg/master/logos/aeris.png" x="0" y="0" height="92" width="175" />
+		<image xlink:href="https://cdn.jsdelivr.net/gh/terresolide/systeme-terre-svg/logos/aeris.png" x="0" y="0" height="92" width="175" />
 	</a>
 </g>
 <g id="formater" transform="translate(549,179)">
 	<a xlink:href="https://www.poleterresolide.fr/" xlink:title="ForM@Ter - Données et Services pour la Terre Solide" target="_blank">
 		<rect  x="0" y="0" height="86" width="210" filter="url(#f3)"/>
-		<image xlink:href="https://rawgit.com/terresolide/systeme-terre-svg/master/logos/formater.png" x="0" y="0" height="86" width="210" />
+		<image xlink:href="https://cdn.jsdelivr.net/gh/terresolide/systeme-terre-svg/logos/formater.png" x="0" y="0" height="86" width="210" />
 	</a>
 </g>
 <g id="theia" transform="translate(44,177)">
 	<a xlink:href="http://www.theia-land.fr/" xlink:title="Theia - Données et Services pour les Surfaces Continentales" target="_blank">
 		<rect  x="0" y="0" height="80" width="266"  filter="url(#f3)"/>
-		<image xlink:href="https://rawgit.com/terresolide/systeme-terre-svg/master/logos/theia.png" x="0" y="0" height="80" width="266" />
+		<image xlink:href="https://cdn.jsdelivr.net/gh/terresolide/systeme-terre-svg/logos/theia.png" x="0" y="0" height="80" width="266" />
 	</a>
 </g>
 <g id="odatis" transform="translate(305,297)">
 	<a  xlink:href="http://www.odatis-ocean.fr/" xlink:title="Odatis - Données et Services pour l'Océan" target="_blank">
 		<rect  x="0" y="0" height="90" width="210"  filter="url(#f3)"/>
-		<image xlink:href="https://rawgit.com/terresolide/systeme-terre-svg/master/logos/odatis.png" x="0" y="0" height="90" width="210" />
+		<image xlink:href="https://cdn.jsdelivr.net/gh/terresolide/systeme-terre-svg/logos/odatis.png" x="0" y="0" height="90" width="210" />
 	</a>
 	<!--<animateTransform attributeName="transform" 
 	type="translate"

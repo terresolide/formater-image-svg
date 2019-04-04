@@ -12,7 +12,17 @@ var reload = function(e){
 	// minify svg
 	console.log(path.basename(e.path));
 	gulp.src(e.path)
-  .pipe(svgmin())
+	  .pipe(svgmin())
+//  .pipe(svgmin({
+//    plugins: [{
+//      minifyStyles: false
+//    }]
+//  }))
+//	 .pipe(svgmin({
+//            js2svg: {
+//                pretty: true
+//            }
+//        }))
   .pipe(gulp.dest('./out'));
 	browserSync.reload()
 }

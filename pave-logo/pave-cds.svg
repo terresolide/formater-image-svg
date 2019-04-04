@@ -2,19 +2,20 @@
 <svg id="pave-cds" version="1.2" width="1000px" height="520px" viewBox="0 0 1200 700" preserveAspectRatio="xMidYMid" fill-rule="evenodd"  stroke-width="28.222" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg" xmlns:ooo="http://xml.openoffice.org/svg/export" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
 <style type="text/css">
   <![CDATA[
-#pave-cds a:hover rect{
+#pave-cds a:hover rect,
+#pave-cds a:hover path{
 	stroke: rgb(140,2,9);
 	stroke-width:3px;
   }
 #pave-cds image.iers{
 	filter:url(#f4);
 }
+
 #pave-cds a:hover image.iers{
         opacity:0.99;
 	filter:url(#f5);
 }
-  ]]>
- </style>
+]]></style>
 <defs><filter id="f3" x="0" y="0" width="200%" height="150%"><feOffset result="offOut" in="SourceGraphic" dx="5" dy="5"/><feGaussianBlur result="blurOut" in="offOut" stdDeviation="3"/><feBlend in="SourceGraphic" in2="blurOut" mode="normal"/></filter>
 
 <filter id="f4" color-interpolation-filters="sRGB"><feOffset result="offOut" in="SourceAlpha" dx="5" dy="5"/>
@@ -27,8 +28,8 @@
 <g>
 
 <a xlink:href="http://www.emso-fr.org" xlink:title="Observatoire du fond de mer et de la colonne d'eau" target="_blank">
-<rect  x="24" y="52" height="107" width="250" filter="url(#f3)"/>
-<image xlink:href="https://www7.obs-mip.fr/wp-content-aeris/uploads/sites/4/2018/06/logo_emso_large-300x128.png"  x="24" y="52" height="107" width="250"/>
+<rect  x="22" y="29" height="107" width="250" filter="url(#f3)"/>
+<image xlink:href="https://www7.obs-mip.fr/wp-content-aeris/uploads/sites/4/2018/06/logo_emso_large-300x128.png"  x="22" y="29"  height="107" width="250"/>
 </a>
 
 <a xlink:href="http://www.sonel.org/" xlink:title="SONEL" target="_blank">
@@ -52,15 +53,15 @@
 </a>
 
 <a xlink:href="http://renag.resif.fr/" xlink:title="REseau NAtional GNSS permanent" target="_blank">
-<rect x="24" y="173" height="132" width="230" filter="url(#f3)"/>
+<rect x="15" y="150" height="132" width="230" filter="url(#f3)"/>
 
-<image xlink:href="https://www7.obs-mip.fr/wp-content-aeris/uploads/sites/4/2017/10/resif-renag2.png" x="24" y="173" height="132" width="230"/>
+<image xlink:href="https://www7.obs-mip.fr/wp-content-aeris/uploads/sites/4/2017/10/resif-renag2.png" x="15" y="150" height="132" width="230"/>
 </a>
 
 <a xlink:href="http://igets.u-strasbg.fr/" xlink:title="Service international de géodynamique et de marées terrestres" target="_blank">
-<rect x="24" y="327" height="140" width="230" filter="url(#f3)"/>
+<rect x="24" y="297" height="140" width="230" filter="url(#f3)"/>
 
-<image xlink:href="https://www7.obs-mip.fr/wp-content-aeris/uploads/sites/4/2018/05/logo_IGETS-600-300x182.jpg" x="24" y="327" height="140" width="230"/>
+<image xlink:href="https://www7.obs-mip.fr/wp-content-aeris/uploads/sites/4/2018/05/logo_IGETS-600-300x182.jpg" x="24" y="297" height="140" width="230"/>
 </a>
 
 <a xlink:href="http://isgi.unistra.fr/" xlink:title="Service International des Indices Géomagnétiques" target="_blank">
@@ -75,12 +76,12 @@
 </a>
 
 <a xlink:href="http://hpiers.obspm.fr/eop-pc/index.php" xlink:title="Service International de Rotation de la Terre" target="_blank">
-<image class="iers" xlink:href="https://www7.obs-mip.fr/wp-content-aeris/uploads/sites/4/2018/02/iers.png" x="961" y="421" height="102" width="100" />
+<image class="iers" xlink:href="https://www7.obs-mip.fr/wp-content-aeris/uploads/sites/4/2018/02/iers.png" x="1065" y="149" height="102" width="100" />
 </a>
 
 <a xlink:href="http://seismology.resif.fr/" xlink:title="Centre de données sismologiques" target="_blank">
-<rect x="873" y="528.5" height="132" width="230" filter="url(#f3)"/>
-<image xlink:href="https://www7.obs-mip.fr/wp-content-aeris/uploads/sites/4/2017/10/resif2.png" x="873" y="529" height="132" width="230"/>
+<rect x="984" y="426.5" height="115" width="200" filter="url(#f3)"/>
+<image xlink:href="https://www7.obs-mip.fr/wp-content-aeris/uploads/sites/4/2017/10/resif2.png"  x="984" y="427" height="115" width="200"/>
 </a>
 
 <a xlink:href="http://bgi.obs-mip.fr/" xlink:title="Bureau Gravimétrique International" target="_blank">
@@ -89,13 +90,13 @@
 </a>
 
 <a xlink:href="http://www.bcmt.fr/index.html" xlink:title="Bureau Central de Magnétisme Terrestre" target="_blank">
-<rect x="280" y="420" height="92" width="650" filter="url(#f3)"/>
-<image xlink:href="https://www7.obs-mip.fr/wp-content-aeris/uploads/sites/4/2017/10/bcmt.png" x="280" y="420" height="92" width="650"/>
+<rect x="308" y="437" height="92" width="650" filter="url(#f3)"/>
+<image xlink:href="https://www7.obs-mip.fr/wp-content-aeris/uploads/sites/4/2017/10/bcmt.png" x="308" y="437" height="92" width="650"/>
 </a>
 
 <a xlink:href="https://ids-doris.org/" xlink:title="International DORIS Service" target="_blank">
-<rect x="58" y="519" height="100" width="269" filter="url(#f3)"/>
-<image xlink:href="https://www7.obs-mip.fr/wp-content-aeris/uploads/sites/4/2018/08/logo_IDS.png" x="58" y="519" height="100" width="269"/>
+<rect x="27" y="454" height="100" width="269" filter="url(#f3)"/>
+<image xlink:href="https://www7.obs-mip.fr/wp-content-aeris/uploads/sites/4/2018/08/logo_IDS.png"  x="27" y="454" height="100" width="269"/>
 </a>
 
 <a xlink:href="http://www.ano-omiv.cnrs.fr/" xlink:title="Observatoire Multidisciplinaire des Instabilités de Versant" target="_blank">
@@ -109,8 +110,13 @@
 </a>
 
 <a xlink:href="https://grace.obs-mip.fr/" xlink:title="Gravity Variations from GRACE and LAGEOS data from CNES/GRGS" target="_blank">
-<rect x="349" y="531" height="141" width="500" filter="url(#f3)"/>
-<image xlink:href="https://www7.obs-mip.fr/wp-content-aeris/uploads/sites/4/2018/08/grace_lageos.png"  x="349" y="531" height="141" width="500" />
+<rect x="578" y="552" height="113" width="400" filter="url(#f3)"/>
+<image xlink:href="https://www7.obs-mip.fr/wp-content-aeris/uploads/sites/4/2018/08/grace_lageos.png" x="578" y="552" height="113" width="400" />
+</a>
+
+<a xlink:href="https://igsac-cnes.cls.fr" xlink:title="Centre d'analyse CNES/CLS pour l'IGS" target="_blank">
+<rect x="71" y="570" height="95" width="487" filter="url(#f3)"/>
+<image xlink:href="https://www7.obs-mip.fr/wp-content-aeris/uploads/sites/4/2019/04/cnes-cls-head.png" x="71" y="570" height="95" width="487"/>
 </a>
 </g>
 </svg>
