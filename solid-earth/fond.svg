@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.1"
+   id="svg5520"
+   viewBox="0 0 744.09448819 1052.3622047"
+   height="297mm"
+   width="210mm">
+  <defs
+     id="defs5522">
+    <linearGradient
+       id="linearGradient5211">
+      <stop
+         id="stop5207"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;" />
+      <stop
+         id="stop5209"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:0;" />
+    </linearGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-2.0562085,0.97675215,-0.59126759,-1.2447212,2052.1377,-536.64243)"
+       r="339.13525"
+       fy="-129.58661"
+       fx="687.95563"
+       cy="-129.58661"
+       cx="687.95563"
+       id="radialGradient5213"
+       xlink:href="#linearGradient5211" />
+  </defs>
+  <metadata
+     id="metadata5525">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <path
+       id="path6068"
+       transform="scale(0.9375)"
+       d="M 400.83203 23.46875 A 361.04492 364.27754 0 0 0 39.787109 387.74609 A 361.04492 364.27754 0 0 0 400.83203 752.02344 A 361.04492 364.27754 0 0 0 761.87695 387.74609 A 361.04492 364.27754 0 0 0 400.83203 23.46875 z M 405.9043 26.857422 A 125.05553 361.20934 0 0 1 515.48047 206.66406 A 125.05553 361.20934 0 0 1 515.22852 570.67383 A 125.05553 361.20934 0 0 1 407.82031 748.96875 L 407.82031 749.05273 A 295.06289 361.05225 0 0 1 407.22266 749.02734 A 125.05553 361.20934 0 0 1 405.4043 749.20898 L 405.4043 748.95117 A 295.06289 361.05225 0 0 1 148.69336 570.59375 A 295.06289 361.05225 0 0 1 148.09766 206.74414 A 295.06289 361.05225 0 0 1 405.9043 27.03125 L 405.9043 26.857422 z "
+       clip-path="none"
+       style="opacity:1;fill:url(#radialGradient5213);fill-opacity:1;stroke:#82ffff;stroke-width:1.39868438;stroke-opacity:1" />
+  </g>
+  <g
+     id="layer13" />
+  <g
+     style="display:inline"
+     id="layer11" />
+  <g
+     style="display:none"
+     id="layer12" />
+  <g
+     id="layer14" />
+</svg>
