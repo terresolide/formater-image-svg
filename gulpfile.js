@@ -38,6 +38,7 @@ gulp.task('serve', function() {
     browserSync.reload()
     gulp.watch(
         ["./coordination-diffusion/*.svg",
+      "./solid-earth/*.svg",
       "./pave-logo/*.svg",
       "./schema-gouvernance/*.svg", 
       "./systeme-terre/*.svg"])
