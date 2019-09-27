@@ -1,26 +1,26 @@
 <div style="max-width:366px;text-align:center;">
 	<div class="systeme-terre">
-	  
+	    <div class="data-terra"><img src="https://www7.obs-mip.fr/wp-content-aeris/uploads/sites/4/2019/09/data-terra-500.png" alt="Data Terra" /></div>
 		<div>
 			<a href="https://www.aeris-data.fr/" title="Aeris - Données et Services pour l'Atmosphère" target="_blank">
 
-				<img src="https://rawgit.com/terresolide/systeme-terre-svg/master/logos/aeris.png" alt="Aeris"  />
+				<img src="https://www7.obs-mip.fr/wp-content-aeris/uploads/sites/4/2019/09/aeris.png" alt="Aeris"  />
 			</a>
 		</div>
 		<div>
 			<a href="#" title="ForM@Ter - Données et Services pour la Terre Solide" >
 
-				<img src="https://rawgit.com/terresolide/systeme-terre-svg/master/logos/formater.png" alt="Formater" />
+				<img src="https://www7.obs-mip.fr/wp-content-aeris/uploads/sites/4/2019/09/formater.png" alt="ForM@Ter" />
 			</a>
 		</div>
 		<div>
 			<a href="http://www.odatis-ocean.fr/" title="Odatis - Données et Services pour l'Océan" target="_blank">
-				<img src="https://rawgit.com/terresolide/systeme-terre-svg/master/logos/odatis.png" alt="odatis" />
+				<img src="https://www7.obs-mip.fr/wp-content-aeris/uploads/sites/4/2019/09/odatis.png" alt="odatis" />
 			</a>
 		</div>
 		<div>
 			<a href="http://www.theia-land.fr/" title="Theia - Données et Services pour les Surfaces Continentales" target="_blank">
-				<img src="https://rawgit.com/terresolide/systeme-terre-svg/master/logos/theia.png" alt="theia" />
+				<img src="https://www7.obs-mip.fr/wp-content-aeris/uploads/sites/4/2019/09/theia.png" alt="theia" />
 			</a>
 		</div>
 	</div>
@@ -35,7 +35,7 @@
    max-width:120px;
 
    }
-   .systeme-terre > div{
+   .systeme-terre > div:not(.data-terra){
      display:inline-block;
 	 max-width:120px;
 	 margin:4px 5px;
@@ -52,12 +52,20 @@
     font-family: "FontAwesome";
     content: "\f0ac";
 	margin-right: 10px;
-margin-left: 5px;
+   margin-left: 5px;
+}
+/* styles ajoutés le 27 septembre avec data terra */
+.systeme-terre > div.data-terra {
+	display:block;
+	box-shadow:none;
+	text-align:center;
+	max-width:100%;
+}
+.systeme-terre > div.data-terra img{
+    max-width: 180px;
+    width: 200px;
+    height: auto;
+    max-height: 100px;
 }
 
-	<!--<animateTransform attributeName="transform" 
-	type="translate"
-	 from="318 42"
-    to="305 297"
-    begin="0s"
-    dur=".5s"></animateTransform>-->
+</style>
