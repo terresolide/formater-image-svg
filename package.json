@@ -13,7 +13,8 @@
   "dependencies": {},
   "devDependencies": {
     "browser-sync": "^2.24.7",
-    "gulp": "^3.9.1",
+    "graceful-fs": "^4.2.4",
+    "gulp": "^4.0.2",
     "gulp-svgmin": "^2.1.0"
   }
 }
